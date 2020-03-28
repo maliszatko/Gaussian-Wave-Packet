@@ -1,8 +1,3 @@
----
-
-
----
-
 <h2 id="gaussian-wave-packet-simulation">Gaussian Wave Packet Simulation</h2>
 <p>This simulation should be used in order to understand parameters with which Gaussian Wave is expressed.</p>
 <p><em>Wave function</em> in a form of a Gaussian Packet is:</p>
@@ -40,7 +35,4 @@ s76,-59,76,-59s76,-60,76,-60z M1001 80H40000v40H1012z"></path></svg></span></spa
 From this form it is easy to obtain <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">ℜ</mi></mrow><annotation encoding="application/x-tex">\Re</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.69444em; vertical-align: 0em;"></span><span class="mord">ℜ</span></span></span></span></span> and <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">ℑ</mi></mrow><annotation encoding="application/x-tex">\Im</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.69444em; vertical-align: 0em;"></span><span class="mord">ℑ</span></span></span></span></span> part of a <em>wave function</em>.<br>
 Apparently there are two parameters which determine a way in which function will behave – <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>σ</mi></mrow><annotation encoding="application/x-tex">\sigma</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.43056em; vertical-align: 0em;"></span><span class="mord mathdefault" style="margin-right: 0.03588em;">σ</span></span></span></span></span> and <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>k</mi></mrow><annotation encoding="application/x-tex">k</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.69444em; vertical-align: 0em;"></span><span class="mord mathdefault" style="margin-right: 0.03148em;">k</span></span></span></span></span>.<br>
 This Simulation was made to help understand how these parameters affect Gausian Wave Packet form.</p>
-<blockquote>
-<p>You can find more information about <strong>LaTeX</strong> mathematical expressions <a href="http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference">here</a>.</p>
-</blockquote>
 
